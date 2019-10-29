@@ -1,0 +1,21 @@
+.textquestion{
+    h5{
+        font-size: 16px;
+    }
+    
+    .textinput{
+        position: relative;
+        width: 100%;
+        box-sizing: border-box;
+        font-size: 1em;
+        line-height: 2em;
+        padding-left: 1em;
+        height: calc(2em + 1px);
+    }
+    
+    .invalid{
+        color:red;
+    
+    }
+    margin-bottom: 2rem;
+}
